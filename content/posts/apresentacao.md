@@ -1,5 +1,5 @@
 +++
-title = "root@heitor:~ whoaim"
+title = "root@heitor:~ whoami"
 date = "2026-04-09T20:59:43-03:00"
 #dateFormat = "02-01-2006" # This value can be configured for per-post date formatting
 author = "Heitor"
