@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://HeitorBrazil.github.io/pagina-pessoal/'
 locale = 'en-us'
 title = 'Heitor Brazil Home Page'
 theme = 'hugo-theme-terminal'

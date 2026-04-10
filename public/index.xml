@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heitor Brazil Home Page</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Heitor Brazil Home Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Apr 2026 20:59:43 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>root@heitor:~ whoaim</title>
-      <link>http://localhost:1313/posts/apresentacao/</link>
+      <link>https://example.org/posts/apresentacao/</link>
       <pubDate>Thu, 09 Apr 2026 20:59:43 -0300</pubDate>
-      <guid>http://localhost:1313/posts/apresentacao/</guid>
+      <guid>https://example.org/posts/apresentacao/</guid>
       <description>&lt;h1 id=&#34;olá-meu-nome-é-heitor-brazil&#34;&gt;Olá, meu nome é Heitor Brazil&lt;/h1&gt;&#xA;&lt;p&gt;Sou estudante do BCC interessado em aprender mais.&lt;/p&gt;&#xA;&lt;h3 id=&#34;outros-interesses&#34;&gt;Outros Interesses&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Teologia&lt;/li&gt;&#xA;&lt;li&gt;Violão&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
