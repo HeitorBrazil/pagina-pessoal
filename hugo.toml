@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Heitor Brazil Home Page'
+theme = 'hugo-theme-terminal'
+[params]
+ReadMore = "Ler mais"

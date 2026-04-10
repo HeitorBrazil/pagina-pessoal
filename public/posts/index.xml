@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Heitor Brazil Home Page</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Heitor Brazil Home Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2026 20:59:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>root@heitor:~ whoaim</title>
+      <link>http://localhost:1313/posts/apresentacao/</link>
+      <pubDate>Thu, 09 Apr 2026 20:59:43 -0300</pubDate>
+      <guid>http://localhost:1313/posts/apresentacao/</guid>
+      <description>&lt;h1 id=&#34;olá-meu-nome-é-heitor-brazil&#34;&gt;Olá, meu nome é Heitor Brazil&lt;/h1&gt;&#xA;&lt;p&gt;Sou estudante do BCC.&lt;/p&gt;&#xA;&lt;h3 id=&#34;especificações-do-sistema-habilidades&#34;&gt;Especificações do Sistema (Habilidades)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;OS:&lt;/strong&gt; Arch Linux (Hyprland/KDE)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Linguagens:&lt;/strong&gt; C, C++, Java, Python e Octave&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;fora-do-terminal&#34;&gt;Fora do Terminal&lt;/h3&gt;&#xA;&lt;p&gt;Quando não estou depurando código geralmente estou:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Praticando violão.&lt;/li&gt;&#xA;&lt;li&gt;Estudando teologia.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Online e compilando.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
